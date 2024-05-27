@@ -1,0 +1,2 @@
+edition selectionner la grille de votre chois , edition sauvegarder la grille précédament choisir, et enfin nouvelle partie sélectionner le type de grille précedament sauvegarder et commencer a jouer grace au clique droit
+Mona Technology et MasterLipakumu vous souhaite une bonne et merveilleuse partie
